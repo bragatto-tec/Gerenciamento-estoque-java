@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner
 
 public class proj_mack1shop {
     static void inicializarBase (int[] idsProdutos, String[] nomesProdutos, double[] precosProdutos, int[] estoquesProdutos,int[] vendaAtuallds, 
